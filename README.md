@@ -1,5 +1,12 @@
 # Sorting_Visualizer
 
+5 Sorting Techniques
+1.Bubble Sort
+2.Selection Sort
+3.Insertion Sort
+4.Quick Sort
+5.Merge Sort
+
 
 <img width="1438" alt="Screen Shot 2021-07-01 at 11 19 08 AM" src="https://user-images.githubusercontent.com/65508519/124072704-bd248400-da5e-11eb-97b8-444999df0c55.png">
 
