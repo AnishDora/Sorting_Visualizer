@@ -1,10 +1,10 @@
 # Sorting_Visualizer
 
-5 Sorting Techniques
-1.Bubble Sort
-2.Selection Sort
-3.Insertion Sort
-4.Quick Sort
+5 Sorting Techniques <br/>
+1.Bubble Sort <br/>
+2.Selection Sort <br/>
+3.Insertion Sort <br/>
+4.Quick Sort <br/>
 5.Merge Sort
 
 
