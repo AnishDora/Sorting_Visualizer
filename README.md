@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-5 Sorting Techniques <br/>
+Sorting Techniques Used <br/><br>
 1.Bubble Sort <br/>
 2.Selection Sort <br/>
 3.Insertion Sort <br/>
