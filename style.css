@@ -1,0 +1,58 @@
+body{
+    background-color: #1A1A1D;
+    margin: 15px;
+}
+h1{
+    color: white;
+    padding-bottom: 10px;
+}
+.button{
+ background-color:#C3073F;
+ padding: 10px;
+ border-radius: 10px;
+ margin: 15px;
+ border-style: none;
+ color: white;
+}
+h3{
+    padding-top:  30px;
+    color: white;
+}
+.button:hover{
+    background-color:white;
+    color: #950740;
+}
+span{
+    color: white;
+    padding: 10px;
+}
+input[type="range"]{
+    width: 150px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dis{
+    display: flex;
+    align-items: center;
+}
+
+.flex-container{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    transition: 2s all ease;
+}
+
+.flex-item{
+    background:#C3073F ;
+    border: 1pt dotted black ;
+    width: 20px;
+    transition: 0.1s all ease;
+}  
+
